@@ -1,2 +1,2 @@
 # hello-world
-Entry into github
+Entry into github. Beginning to explore the world of tech in github. Lots to learn
